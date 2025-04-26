@@ -1,0 +1,97 @@
+{
+    "createPerk": {
+        "token": "123",
+        "terms": "ADHOC Perk ",
+        "isGlobal": false,
+        "enabled": true,
+        "priority": 1,
+        "template": "AD_HOC",
+        "auto": true,
+        "isDonatable": false,
+        "maximumPointCashValue": 1,
+        "isTier": false,
+        "title": "ADHOC Perk ",
+        "internalTitle": "ADHOC Perk ",
+        "redemptionMethod": "AUTO",
+        "excludeDiscountIds": [],
+        "visualisation": {
+            "subtitleTwoText": "",
+            "textAlignment": "LEFT",
+            "description": "ADHOC Perk ",
+            "subtitleText": "",
+            "backgroundOverlayOpacity": 0,
+            "backgroundOverlayColour": "#ffffff",
+            "textColour": "#000000",
+            "backgroundImageUrl": "",
+            "verticalAlignment": "BOTTOM",
+            "colours": [],
+            "media": [],
+            "templates": [],
+            "titleText": "",
+            "showExpiry": false,
+            "awardsScreenShape": "DOUBLE_RECTANGLE",
+            "wallet": {
+                "enabled": false,
+                "title": "",
+                "imageUrls": [],
+                "displayPoints": true,
+                "hidden": false
+            }
+        },
+        "points": {
+            "initial": 1,
+            "min": 0,
+            "max": 1,
+            "step": 1,
+            "redemption": 1
+        }
+    },
+    "updatePerk": {
+        "token": "123",
+        "terms": "ADHOC Perk ",
+        "isGlobal": false,
+        "enabled": true,
+        "priority": 1,
+        "template": "AD_HOC",
+        "auto": true,
+        "isDonatable": false,
+        "maximumPointCashValue": 1,
+        "isTier": false,
+        "title": "ADHOC Perk ",
+        "internalTitle": "UPDATE ADHOC Perk",
+        "redemptionMethod": "AUTO",
+        "excludeDiscountIds": [],
+        "visualisation": {
+            "subtitleTwoText": "",
+            "textAlignment": "LEFT",
+            "description": "ADHOC Perk ",
+            "subtitleText": "",
+            "backgroundOverlayOpacity": 0,
+            "backgroundOverlayColour": "#ffffff",
+            "textColour": "#000000",
+            "backgroundImageUrl": "",
+            "verticalAlignment": "BOTTOM",
+            "colours": [],
+            "media": [],
+            "templates": [],
+            "titleText": "",
+            "showExpiry": false,
+            "awardsScreenShape": "DOUBLE_RECTANGLE",
+            "wallet": {
+                "enabled": false,
+                "title": "",
+                "imageUrls": [],
+                "displayPoints": true,
+                "hidden": false
+            }
+        },
+        "points": {
+            "initial": 1,
+            "min": 0,
+            "max": 1,
+            "step": 1,
+            "redemption": 1
+        }
+    }
+  }
+  
